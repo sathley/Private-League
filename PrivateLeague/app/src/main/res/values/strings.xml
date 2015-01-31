@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Private League</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_private_league_details">Private League Details</string>
+
+    <string name="title_activity_create_private_league">Create Private League</string>
+    <string name="title_activity_join_private_league">Join Private League</string>
+</resources>
